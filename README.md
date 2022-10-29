@@ -11,5 +11,5 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/django-4479A1?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/node-F80000?style=for-the-badge&logo=node&logoColor=white">
+<img src="https://img.shields.io/badge/Django-4479A1?style=for-the-badge&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-F80000?style=for-the-badge&logo=Node.js&logoColor=white">
