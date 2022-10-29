@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6158EF&height=300&section=header&text=JaewonyH&fontSize=90)
 # Hwang Jae Won
 ### Hi there 👋 </br>I'm Jaewon Hwang, I hope to Frontend-Engineer
@@ -12,4 +13,5 @@
 </a>
 
 ![JaewonyH's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaewonyH&show_icons=true&theme=tokyonight)
+</div>
 
