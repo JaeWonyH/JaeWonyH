@@ -11,4 +11,5 @@
 <a href = "https://jaewony.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 </a>
 
-[![JaewonyH's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaewonyH)]
+![JaewonyH's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaewonyH&show_icons=true&theme=tokyonight)
+
